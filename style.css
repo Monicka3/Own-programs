@@ -5,3 +5,7 @@ body{
     text-align:center;
     font-size: 16px;
 }
+#each{
+    background-color: aliceblue;
+    border-radius: 10%;
+}
